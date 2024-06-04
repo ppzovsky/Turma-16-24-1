@@ -6,3 +6,15 @@
   justify-content: center;
 }
 
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.buttonsContainers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
